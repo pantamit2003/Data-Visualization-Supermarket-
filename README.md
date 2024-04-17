@@ -38,19 +38,7 @@ This analysis delves into various aspects of the business, including profit base
 3.	Visualization: Created visualizations using Matplotlib to visualize trends, distributions, and relationships in the movie data.
 4.	Feature Engineering: Utilized Pandas to transform data, including splitting the release date into month, year, and country for better analysis.
 5.	Insights Generation: Combined Pandas, NumPy, and Matplotlib to derive actionable insights and present findings effectively.
-# Question
-1.	What types of technology products are contributing most to maximum profits?
-2.	How does the unit price range of 0-1000 impact profit compared to the ranges of 3000-4000 and 7000?
-3.	Why is the central region experiencing higher sales compared to the south region?
-4.	What strategies could be implemented to improve sales in the south region based on these findings?
-5.	What factors contribute to the central region generating maximum profits?
-6.	How can the profitability of the south region be increased?
-7.	What makes the "Small box" product have the highest sales distribution at 34.8%?
-8.	How does the sales distribution of "Wrap bag" compare to other product types, and why is it at 2%?
-9.	What insights can be gained from the sales distribution percentages across different product types?
-10.	Are there any specific product categories driving the high sales distribution in the central region?
-11.	How can marketing strategies be adjusted to improve sales in the south region?
-12.	What recommendations can be made based on the sales and profit trends observed in the analysis?
+
 
 
 
