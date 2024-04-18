@@ -33,11 +33,10 @@ This analysis delves into various aspects of the business, including profit base
 | Order ID                | Unique identifier for each order.                               | INT        |
 
 # Approach Used
-1.	Data Preparation: Used Pandas for cleaning and preparing the movie dataset, handling missing values, and formatting data for analysis.
-2.	Numerical Analysis: Leveraged NumPy for numerical operations like calculating statistics and aggregating data to uncover insights.
-3.	Visualization: Created visualizations using Matplotlib to visualize trends, distributions, and relationships in the movie data.
-4.	Feature Engineering: Utilized Pandas to transform data, including splitting the release date into month, year, and country for better analysis.
-5.	Insights Generation: Combined Pandas, NumPy, and Matplotlib to derive actionable insights and present findings effectively.
+1.	Data Preparation: Used Pandas for cleaning and preparing the movie dataset, handling missing values, and formatting data for analysis
+2.	Visualization: Created visualizations using Matplotlib to visualize trends, distributions, and relationships in the movie data.
+3.	Feature Engineering: Utilized Pandas to transform data, including splitting the release date into month, year, and country for better analysis.
+4.	Insights Generation: Combined Pandas, NumPy, and Matplotlib to derive actionable insights and present findings effectively.
 
 
 
